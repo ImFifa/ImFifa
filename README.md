@@ -4,7 +4,7 @@
   
 * 🔭 I’m currently working on [Hop grower portal](https://www.portal-pestitele.cz) and couple of websites for various organizations and bussinesses
 
-* 🌱 I’m currently learning **React**
+* 🌱 I’m currently learning **React** and **Python**
 
 * 👨‍💻 Some of my projects are available at [https://www.filipurban.cz/](https://www.filipurban.cz/)
 
