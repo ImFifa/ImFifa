@@ -12,7 +12,7 @@
 
 ##### Languages and Tools:
 
-* 🛡️ Most of the websites I brought to life are build on **PHP** framework **Nette**
+* 🛡️ Most of the websites I brought to life are build with one of these **PHP** frameworks: **Nette** & **Laravel**
 
 * 💪 I like my CSS awesome and powerful. That's why I always use **SASS**
 
